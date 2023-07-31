@@ -9,7 +9,7 @@
 
 
 
-## Basic to Intermediate
+## Intermediate
 
 ### Portfolio Websites
    
@@ -25,6 +25,18 @@
 - [x] [Excel invoices to PDF](https://github.com/hashinil/python_pdf_3)
       
 - [x] [Multiple text files to single PDF](https://github.com/hashinil/python_pdf_4)
+
+
+
+
+## Using and Building APIs
+
+### News by Email
+- [x] [Send News by Email](https://github.com/hashinil/python_api_1)
+
+
+
+
    
 ### Python Experiments I
    
