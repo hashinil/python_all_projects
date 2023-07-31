@@ -1,6 +1,6 @@
 # Repository List : Python Project 
 
-## Basic
+## Basic to Intermediate
 
 ### To-do App
 - [x] **CLI & GUI**: [TODO_CLI_GUI](https://github.com/hashinil/python_todo)
