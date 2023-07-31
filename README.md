@@ -1,36 +1,33 @@
-# python
+# Repository List : Python Project 
 
-Basic
+## Basic
 
-1. To-do App
+### To-do App
+- [x] **CLI & GUI**: [TODO_CLI_GUI](https://github.com/hashinil/python_todo)
+- [x] **Web**: [TODO_Web](https://github.com/hashinil/python_todo_web) > https://todowebhl.streamlit.app/
+
+### Portfolio
    
-   CLI & GUI:   https://github.com/hashinil/python_todo
+- [x] [My Portfolio](https://github.com/hashinil/python_portfolio)
+- [x] [Company Portfolio](https://github.com/hashinil/python_portfolio)
 
-   Web:         https://github.com/hashinil/python_todo_web
-   
-                https://todowebhl.streamlit.app/
-
-3. Portfolio
-   
-   My Portfolio:   https://github.com/hashinil/python_portfolio
-
-   Company Portfolio:   https://github.com/hashinil/python_portfolio
-
-4. Pdf Generate
+### Pdf Generate
   
-   https://github.com/hashinil/python_portfolio 
-  
-   https://github.com/hashinil/python_portfolio
+- [x] [csv to pdf1](https://github.com/hashinil/python_pdf)
+
+- [x] [csv to pdf2](https://github.com/hashinil/python_pdf_2)
+
+- [x] [Excel to pdf]()
 
 
    
-5. Python experiments I
+### Python Experiments I
    
-   https://github.com/hashinil/python_experiments
+- [x] [Experiments](https://github.com/hashinil/python_experiments)
    
-6. Python experiments II
+### Python Experiments II
    
-   https://github.com/hashinil/python_bonus
+- [x] [Bonus](https://github.com/hashinil/python_bonus)
 
 
    
