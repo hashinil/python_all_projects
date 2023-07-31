@@ -13,13 +13,13 @@
 
 ### Pdf Generate
   
-- [x] [csv to pdf1](https://github.com/hashinil/python_pdf)
+- [x] [CSV to PDF 1](https://github.com/hashinil/python_pdf)
 
-- [x] [csv to pdf2](https://github.com/hashinil/python_pdf_2)
+- [x] [CSV to PDF 2](https://github.com/hashinil/python_pdf_2)
 
-- [x] [Excel to pdf](https://github.com/hashinil/python_pdf_3)
+- [x] [Excel to PDF](https://github.com/hashinil/python_pdf_3)
       
-- [x] [Multiple text files to single pdf](https://github.com/hashinil/python_pdf_4)
+- [x] [Multiple text files to single PDF](https://github.com/hashinil/python_pdf_4)
    
 ### Python Experiments I
    
