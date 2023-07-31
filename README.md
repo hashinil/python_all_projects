@@ -7,6 +7,7 @@ Basic
    CLI & GUI:   https://github.com/hashinil/python_todo
 
    Web:         https://github.com/hashinil/python_todo_web
+   
                 URL: https://todowebhl.streamlit.app/
 
 3. Portfolio
