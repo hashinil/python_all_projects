@@ -50,8 +50,8 @@
 - [x] [Dictionary API](https://github.com/hashinil/python_dictionary_api)
 
       
-
-
+# Data Analysis
+- [x] [analyze_wine_tasting_dataset](https://github.com/hashinil/python_analyze_wine_tasting_dataset)
 
    
 ### Python Experiments I
