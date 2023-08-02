@@ -35,6 +35,22 @@
 - [x] [Send News by Email](https://github.com/hashinil/python_api_1)
 
 
+# python_frameworks
+
+## Flask
+
+### Basic web site
+   
+- [x] [Basic web site](https://github.com/hashinil/python_flask_1)
+
+### API
+
+- [x] [Weather API](https://github.com/hashinil/python_weather_api)
+      
+- [x] [Dictionary API](https://github.com/hashinil/python_dictionary_api)
+
+      
+
 
 
    
