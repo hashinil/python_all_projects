@@ -1,66 +1,91 @@
-# Python Basic to Intermediate: Repository List
+# Python Repository List
 
-## Basic
+## 1. To-do App   
 
-### To-do ListApp
-- [x] **CLI & Desktop GUI**: [TODO_CLI_GUI](https://github.com/hashinil/python_todo)
-- [x] **Web**: [TODO_Web](https://github.com/hashinil/python_todo_web) > https://todowebhl.streamlit.app/
+- **CLI & Desktop GUI**: [TODO_CLI_GUI](https://github.com/hashinil/python_todo)
+   - [x] Basic python
+
+- **Web**: [TODO_Web](https://github.com/hashinil/python_todo_web) > URL: https://todowebhl.streamlit.app/
+   - [x] Streamlit
+   - [x] Intermediate python
 
 
+## 2. Portfolio Websites
 
+- [My Portfolio](https://github.com/hashinil/python_portfolio)
+- [Company Portfolio](https://github.com/hashinil/python_portfolio)
 
-## Intermediate
+   - [x] Streamlit
+   - [x] Intermediate python
 
-### Portfolio Websites
-   
-- [x] [My Portfolio](https://github.com/hashinil/python_portfolio)
-- [x] [Company Portfolio](https://github.com/hashinil/python_portfolio)
-
-### Automatic Pdf Generation
+## 3. Automatic Pdf Generation
   
-- [x] [CSV to PDF 1](https://github.com/hashinil/python_pdf)
+- [CSV to PDF 1](https://github.com/hashinil/python_pdf)
+- [CSV to PDF 2](https://github.com/hashinil/python_pdf_2)
+- [Excel invoices to PDF](https://github.com/hashinil/python_pdf_3)   
+- [Multiple text files to single PDF](https://github.com/hashinil/python_pdf_4)
 
-- [x] [CSV to PDF 2](https://github.com/hashinil/python_pdf_2)
+   - [x] FPDF
 
-- [x] [Excel invoices to PDF](https://github.com/hashinil/python_pdf_3)
-      
-- [x] [Multiple text files to single PDF](https://github.com/hashinil/python_pdf_4)
+## 4. News by Email
+
+- [Send News by Email](https://github.com/hashinil/python_email_news_api)
+  
+   - [x] Using and Building APIs
+
+## 5. Website
+
+- [Simple web site](https://github.com/hashinil/python_flask_1)
+  
+   - [x] Flask
 
 
+## 6. Weather API
+
+- [Weather API](https://github.com/hashinil/python_weather_api)
+  
+   - [x] Flask
+   - [x] Building APIs
+   - [x] Data Analysis
+   - [x] Pandas
+   - [x] Jupyter Notebook
+ 
+
+## 7. Dictionary API
+
+- [Dictionary API](https://github.com/hashinil/python_dictionary_api)
+  
+   - [x] Flask
+   - [x] Building APIs
+   - [x] Data Analysis
+   - [x] Pandas
+   - [x] Jupyter Notebook
 
 
-## Using and Building APIs
+## 8. Wine Tasting Data Analysis
 
-### News by Email
-- [x] [Send News by Email](https://github.com/hashinil/python_api_1)
+- [analyze_wine_tasting_dataset](https://github.com/hashinil/python_analyze_wine_tasting_dataset)
+  
+   - [x] Data Analysis
+   - [x] Pandas
+   - [x] Jupyter Notebook
 
+  
+## 9. Happiness Data App
 
-# python_frameworks
-
-## Flask
-
-### Basic web site
+- [Happiness Data App](https://github.com/hashinil/python_analyse_happiness)
+  
+   - [x] Streamlit
+   - [x] Pandas
+   - [x] Plotly
    
-- [x] [Basic web site](https://github.com/hashinil/python_flask_1)
-
-### API
-
-- [x] [Weather API](https://github.com/hashinil/python_weather_api)
-      
-- [x] [Dictionary API](https://github.com/hashinil/python_dictionary_api)
-
-      
-# Data Analysis
-- [x] [analyze_wine_tasting_dataset](https://github.com/hashinil/python_analyze_wine_tasting_dataset)
-
+## Python Experiments I
    
-### Python Experiments I
+- [Experiments](https://github.com/hashinil/python_experiments)
    
-- [x] [Experiments](https://github.com/hashinil/python_experiments)
+## Python Experiments II
    
-### Python Experiments II
-   
-- [x] [Bonus](https://github.com/hashinil/python_bonus)
+- [Bonus](https://github.com/hashinil/python_bonus)
 
 
    
