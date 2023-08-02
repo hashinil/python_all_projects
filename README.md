@@ -78,6 +78,15 @@
    - [x] Streamlit
    - [x] Pandas
    - [x] Plotly
+
+
+## 10. Weather Forecast App
+
+- [Weather Forecast App](https://github.com/hashinil/python_weather_forecast)
+  
+   - [x] Building APIs
+   - [x] Streamlit
+   - [x] Plotly
    
 ## Python Experiments I
    
