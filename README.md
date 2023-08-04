@@ -87,6 +87,17 @@
    - [x] Building APIs
    - [x] Streamlit
    - [x] Plotly
+ 
+
+## 11. NLP - Book
+
+- [NLP - Book](https://github.com/hashinil/python_nlp)
+  
+   - [x] Regular Expressions - Regex
+   - [x] NLTK - Natural Language Toolkit
+   - [x] Sentiment Analysis
+   - [x] Jupyter Notebook
+
    
 ## Python Experiments I
    
