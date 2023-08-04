@@ -91,7 +91,7 @@
 
 ## 11. NLP - Book
 
-- [NLP - Book](https://github.com/hashinil/python_nlp)
+- [NLP - Book](https://github.com/hashinil/python_nlp_1)
   
    - [x] Regular Expressions - Regex
    - [x] NLTK - Natural Language Toolkit
