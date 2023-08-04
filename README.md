@@ -97,6 +97,18 @@
    - [x] NLTK - Natural Language Toolkit
    - [x] Sentiment Analysis
    - [x] Jupyter Notebook
+ 
+
+## 12. NLP - Diary
+
+- [NLP - Diary](https://github.com/hashinil/python_nlp_2)
+  
+   - [x] NLTK - Natural Language Toolkit
+   - [x] Sentiment Analysis
+   - [x] Jupyter Notebook
+   - [x] Plotly
+   - [x] Streamlit
+
 
    
 ## Python Experiments I
